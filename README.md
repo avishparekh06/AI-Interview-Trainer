@@ -4,6 +4,12 @@
 
 ---
 
+## Short Demo
+
+https://drive.google.com/file/d/1ouv8P3TGBr7NHPVuebWFMQlZbSH_xsJf/view?usp=drive_link
+
+---
+
 ## 🎯 Features
 
 - 🎤 Voice-to-text sales interview using [Vapi](https://vapi.ai/)
